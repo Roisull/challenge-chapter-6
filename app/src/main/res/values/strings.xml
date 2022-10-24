@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Challenge Chap 6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">Sign up</string>
+    <string name="xxxx_gmail_com">***@gmail.com</string>
+    <string name="hint_password">password</string>
+    <string name="phone">phone</string>
+    <string name="by_signing_up_you_re_agree_to_our">By signing up, you\'re agree to our</string>
+    <string name="terms">terms &amp; conditions</string>
+    <string name="and"><![CDATA[&]]></string>
+    <string name="conditions">conditions</string>
+    <string name="and2">and</string>
+    <string name="privacy_policy">privacy policy</string>
+    <string name="continuee">Continue</string>
+    <string name="joined_us_before">Joined us before?</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or">OR</string>
+</resources>
