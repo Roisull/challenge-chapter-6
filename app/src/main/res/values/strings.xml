@@ -17,4 +17,8 @@
     <string name="login">Login</string>
     <string name="forgot_password">Forgot Password?</string>
     <string name="or">OR</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="new_artis">New artis?</string>
+    <string name="register">Register</string>
+    <string name="skip">skip</string>
 </resources>
